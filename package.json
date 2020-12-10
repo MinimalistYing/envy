@@ -1,0 +1,14 @@
+{
+  "name": "envy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MinimalistYing/envy.git",
+  "author": "MinimalistYing <genius_ying@163.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-dom": ">=16.0.0",
+    "styles-components": ">=4.0.0",
+    "prop-types": ">=15.0.0"
+  }
+}
